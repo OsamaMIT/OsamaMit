@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Osama El Mahdy</h1>
+<h1 align="center">Welcome!</h1>
 <h3 align="center">A surviving indie developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamamit&label=Profile%20views&color=0e75b6&style=flat" alt="osamamit" /> </p>
