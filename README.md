@@ -1,5 +1,5 @@
-<h1 align="center">Your average surviving indie developer!</h1>
-<h3 align="center">Designing solutions for dumb problems.</h3>
+<h1 align="center">Your average surviving indie developer.</h1>
+<h3 align="center">Designing solutions for dumb problems!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamamit&label=Profile%20views&color=0e75b6&style=flat" alt="osamamit" /> </p>
 
