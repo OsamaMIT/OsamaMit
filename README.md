@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osamamit&theme=nord" alt="osamamit" /></a> </p>
 
-- 🔭 I’m currently working on **too many flet projects!**
-
 - 🌱 I’m currently learning **electronics & cp**
-
-- 👨‍💻 I’m looking for collaborators to **write CP questions (~800-1300 Codeforces diff)**
 
 - 📝 I regularly make small & niche projects [(e.g OPHO Calc)](https://github.com/OsamaMIT/OPhO_2023_Calculator)
 
