@@ -1,5 +1,5 @@
-<h1 align="center">An obsessive cross platform dev</h1>
-<h3 align="center">Future engineering student (inshallah)</h3>
+<h1 align="center">Experimenting with new techonologies</h1>
+<h3 align="center">Computer engineering student (inshallah)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamamit&label=Profile%20views&color=0e75b6&theme=nord" alt="osamamit" /> </p>
 
