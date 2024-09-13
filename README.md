@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osamamit&theme=nord" alt="osamamit" /></a> </p>
 
-- 🌱 I’m currently learning **electronics, godot, & machine learning**
+- 🌱 I’m currently learning **electronics, quantum computing, & machine learning**
 
 - 📝 I regularly start small & niche projects [(e.g OPHO Calc)](https://github.com/OsamaMIT/OPhO_2023_Calculator)
 
