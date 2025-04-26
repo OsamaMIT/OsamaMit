@@ -1,8 +1,6 @@
 <h1 align="center">Experimenting with new techonologies</h1>
 <h3 align="center">Undergraduate Computer Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osamamit&label=Profile%20views&color=0e75b6&theme=nord" alt="osamamit" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osamamit&theme=nord" alt="osamamit" /></a> </p>
 
 - 🌱 I’m currently learning **electronics, quantum computing, & machine learning**
